@@ -28,3 +28,7 @@ docker run --rm \
 ```shell
 ./vendor/bin/sail artisan migrate:fresh --seed
 ```
+
+# Atenção!
+
+Os campos 'Username' tanto na página de login como na página de registro deverá ser utilizado um endereço de e-mail.
